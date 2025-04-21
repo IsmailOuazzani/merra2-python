@@ -24,16 +24,16 @@ Click "Subset/Get Data", select "Get Original Files" (default option), then "Get
 
 
 ### Example usage
-Solar dataset:
+Solar dataset (2015-03-01 to 2025-03-01):
 ```
 python data.py \
-    dataset_lists/subset_M2T1NXRAD_5.12.4_20250421_173157_.txt \
+    dataset_lists/subset_M2T1NXRAD_5.12.4_20250421_182222_.txt \
     outputs \
     --variables SWGDN \
     --coords "-15.675690,27.322971 -15.664875,27.906086 -16.328276,27.319568 -16.327703,27.867828"
 ```
 
-Precipitation dataset:
+Precipitation dataset (2015-03-01 to 2025-03-01):
 ```
 python data.py \
     dataset_lists/subset_GPM_3IMERGHHL_07_20250421_175336_.txt \

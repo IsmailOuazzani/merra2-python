@@ -1,4 +1,0 @@
-https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2/M2T1NXRAD.5.12.4/doc/MERRA2.README.pdf
-https://data.gesdisc.earthdata.nasa.gov/data/MERRA2/M2T1NXRAD.5.12.4/2025/02/MERRA2_400.tavg1_2d_rad_Nx.20250227.nc4
-https://data.gesdisc.earthdata.nasa.gov/data/MERRA2/M2T1NXRAD.5.12.4/2025/02/MERRA2_400.tavg1_2d_rad_Nx.20250228.nc4
-https://data.gesdisc.earthdata.nasa.gov/data/MERRA2/M2T1NXRAD.5.12.4/2025/03/MERRA2_400.tavg1_2d_rad_Nx.20250301.nc4
