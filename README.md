@@ -36,7 +36,7 @@ python data.py \
 Precipitation dataset (2015-03-01 to 2025-03-01):
 ```
 python data.py \
-    dataset_lists/subset_GPM_3IMERGHHL_07_20250421_175336_.txt \
+    dataset_lists/subset_GPM_3IMERGHHL_07_20250421_183438_.txt \
     outputs \
     --log-level DEBUG \
     --variables precipitation \
